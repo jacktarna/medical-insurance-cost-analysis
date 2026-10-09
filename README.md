@@ -97,9 +97,3 @@ These are descriptive findings from this dataset. They do not demonstrate that a
 * `data/` — Cleaned dataset, if redistribution is permitted.
 * `powerbi/` — Power BI report and dashboard preview.
 * `README.md` — Project documentation.
-
-## Limitations
-
-* The analysis uses an observational dataset and identifies associations rather than causal effects.
-* Model performance was evaluated using a single train/test split.
-* The linear regression model may not capture all nonlinear relationships or differences in prediction error across customer groups.
