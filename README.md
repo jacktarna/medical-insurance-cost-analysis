@@ -98,15 +98,8 @@ These are descriptive findings from this dataset. They do not demonstrate that a
 * `powerbi/` — Power BI report and dashboard preview.
 * `README.md` — Project documentation.
 
-## Dataset
-
-**Source:** Kaggle Medical Cost Personal Datasets.
-
-The dataset contains demographic information, health-related characteristics, and medical insurance charges. Please refer to the original dataset page for its terms and licensing conditions.
-
 ## Limitations
 
 * The analysis uses an observational dataset and identifies associations rather than causal effects.
 * Model performance was evaluated using a single train/test split.
 * The linear regression model may not capture all nonlinear relationships or differences in prediction error across customer groups.
-* The model is an educational demonstration, not a validated insurance-pricing tool.
